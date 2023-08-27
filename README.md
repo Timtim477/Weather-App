@@ -10,6 +10,12 @@ Landing Page:
 
 Additional description about the project and its features.
 
+
+## Live Demo
+![know your weather here!]<https://priyakumari-weather-app.netlify.app/>
+
+
+
 ## Built With
 
 - HTML 
