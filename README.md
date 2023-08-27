@@ -26,9 +26,7 @@ Additional description about the project and its features.
 - BOOTSTRAP
 - GITHUB ACTIONS
 
-## Live Demo
 
-[Live Demo Link](https://samirpaul1.github.io/WeatherApp/) :point_left:
 
 ## Getting Started
 - Follow the live demo link and enjoy the site.
