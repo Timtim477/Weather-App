@@ -4,7 +4,7 @@
 >  A weather app that pulls from the OpenWeatherMap API to allow users to search for and view the forecast in cities worldwide. Built with JavaScript.
 
 Landing Page:
-![Screenshot](<img width="957" alt="image" src="https://github.com/Timtim477/Weather-App/assets/88290919/4b2e201f-7d08-461f-b86d-0f9dbb24593a">
+![Screenshot]<img width="957" alt="image" src="https://github.com/Timtim477/Weather-App/assets/88290919/4b2e201f-7d08-461f-b86d-0f9dbb24593a">
 
 
 
