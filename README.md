@@ -12,7 +12,7 @@ Additional description about the project and its features.
 
 
 ## Live Demo
-![know your weather here!]<https://priyakumari-weather-app.netlify.app/>
+[know your weather here!](https://priyakumari-weather-app.netlify.app/)
 
 
 
